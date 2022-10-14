@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @fatihege
+- 👀 I’m interested in web development and artificial intelligence
+- 🌱 I’m currently learning, machine learning
+- 💞️ I’m looking to collaborate on web design and development
+- 📫 How to reach me: ifatxh@gmail.com

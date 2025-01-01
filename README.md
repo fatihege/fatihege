@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Fatih</h1>
 <h3 align="center">Ex-web developer, now diving into game development and AI</h3>
 
-- 🌱 I'm currently learning **C++ and Unreal Engine**
+- I'm currently learning **C++ and Unreal Engine**
 
-- 📫 Reach me at **ifatxh@gmail.com**
+- Reach me at **ifatxh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

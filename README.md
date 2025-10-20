@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Fatih</h1>
-<h3 align="center">Ex-web developer, now diving into machine learning</h3>
+<h3 align="center">Full-stack web developer, now diving into machine learning</h3>
 
 - I'm currently learning **Machine Learning**
 
